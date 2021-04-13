@@ -32,6 +32,11 @@
 ![langkah 9](https://user-images.githubusercontent.com/56526583/114495749-d3cdf280-9c48-11eb-80a3-f0589ae40801.png)
 # Pertanyaan dan Tugas  
 # Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selection.
+# Membuat Dropdown Menu
+![ss tugas](https://user-images.githubusercontent.com/56526583/114502956-c3247900-9c56-11eb-940b-4f227a7db4be.png)
+# Membuat Listbox dengan multiple selection
+![ss tugas 2](https://user-images.githubusercontent.com/56526583/114503154-0aab0500-9c57-11eb-964e-eb012b6ec122.png)
+
 
 
 
